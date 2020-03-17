@@ -1,4 +1,4 @@
-# 딥러닝 파악
+# 딥러닝 교육 자료
 
 - 라이브러리와 linux : [딥러닝을 위한 라이브러리와 linux](https://docs.google.com/presentation/d/1d58RGoqrUyVa8NpWPLsyqcZuEXXaurosTRwjBgyYvPE/edit?usp=sharing)
 
@@ -23,12 +23,6 @@
 - Object Detection
     - CoCo, custom data : [object_detection.md](material/object_detection.md)
 - Text : [text_classification.ipynb](material/text_classification.ipynb)
-
-<br>
-
-# 딥러닝 논문 파악
-
-- [딥러닝 논문 리뷰](https://docs.google.com/presentation/d/1SZ-m4XVepS94jzXDL8VFMN2dh9s6jaN5fVsNhQ1qwEU/edit?usp=sharing)
 
 
 <br>
